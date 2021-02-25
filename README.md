@@ -1,5 +1,5 @@
-# Homework #11
-## Risky Business
+# Predicting Credit Risk
+
 ### Heather Byrd, 01/19/2021
 
 Required Inputs: LoanStats_2019Q1.csv (too large to upload to github)
